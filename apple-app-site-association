@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "5ES42YD3MZ.com.kakaku.tabelog",
-                "paths": [ "/",  "/bayern", "/dortmund/", "/arsenal/*", "/barcelona/luis-suarez", "/barcelona/neymar/" , "/barcelona/lionel-mess?"]
+                "paths": [ "/", "/test/*",  "/bayern", "/dortmund/", "/arsenal/*", "/barcelona/luis-suarez", "/barcelona/neymar/" , "/barcelona/lionel-mess?"]
             }
         ]
     }
